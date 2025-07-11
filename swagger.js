@@ -5,7 +5,7 @@ const doc = {
         title: "Contacts API",
         description: "Contacts API"
     },
-    host:"https://project1-qbgs.onrender.com",
+    host:"project1-qbgs.onrender.com",
     schemes: ["https"]
 };
 
